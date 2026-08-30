@@ -23,7 +23,7 @@ Currently exploring:
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Languages**
 
@@ -33,9 +33,13 @@ Currently exploring:
 
 `Next.js` `React` `Tailwind` `Supabase` `PyTorch` `Git`
 
-**AI**
+## AI / ML
 
-`LLMs` `RAG` `LoRA` `Computer Vision` `AI Agents`
+- **Models:** LLMs, Neural Networks, Transformers
+- **Retrieval:** RAG, Embeddings, Reranking
+- **Agents:** AI Agents, Agent Harnesses, Tool Calling
+- **Training:** LoRA, Fine-tuning
+- **Frameworks:** PyTorch, Hugging Face
 
 ---
 
